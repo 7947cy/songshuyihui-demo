@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Just a try
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  new to the world!
 // @author       Cy
 // @match        https://www.bilibili.com/
@@ -15,6 +15,6 @@
     'use strict';       //使用严格模式
  
     // Your code here...
-    console.log("hello,world");     //打印hello,world
+    console.log("hello");     //打印hello,world
 }
 )();
